@@ -1,0 +1,1 @@
+console.log('Welcome to ES6: The Useful Parts!\n\n\n');
